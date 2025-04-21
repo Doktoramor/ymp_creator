@@ -1,0 +1,1 @@
+Extrae los programas instalados y gneerea un aquivo ymp para su instalacion en otro equipo con suse
